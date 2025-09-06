@@ -33,6 +33,8 @@ This Excel dashboard project focuses on the following analytical objectives:
 
 Tool Used 🛠️: Microsoft Excel
 
+Dataset Used:[Blinkit Grocery Sales Dashboard](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset)
+
 Visual Components:
 
 - Donut Charts → Fat content distribution, Outlet size sales share.
