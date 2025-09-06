@@ -63,11 +63,6 @@ This Excel Dashboard Project acts as a comprehensive tool for analyzing Blinkit�
 
 Focus on expanding Tier 3 outlets and promoting Supermarket Type 1, while targeting high-demand categories like Fruits & Vegetables and Snack Foods. Regular items drive the majority of revenue, making them key for sales growth.
 
-Connect With Me
+💬 Feel free to reach out for questions, feedback, or suggestions related to this project. I’m always open to discussions and collaborations. 📍 LinkedIn | Gaurav Khadse
 
-Feel free to reach out for any questions or suggestions regarding this project. Let’s connect and grow together!
-🔗 LinkedIn | Gaurav Khadse
-
-⭐ If you found this project valuable, don’t forget to follow and star the repository.
-
-
+⭐ Don't forget to follow and star ⭐ the repository if you find this dashboard inspiring or useful.
