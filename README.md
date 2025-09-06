@@ -27,9 +27,7 @@ This Excel dashboard project focuses on the following analytical objectives:
 
 ## Report
 
-Screenshot:
-📊 Blinkit Grocery Dashboard
-
+<img width="1575" height="731" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/b09f9c6e-f292-454e-9f17-c5768819a3c2" />
 
 ## Visualization Tools
 
